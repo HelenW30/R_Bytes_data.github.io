@@ -13,3 +13,11 @@ This resource can be used to access data for testing code in the interactive web
 
 - [nbaplayersdraft.csv](nbaplayersdraft.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/mattop/nba-draft-basketball-player-data-19892021?select=nbaplayersdraft.csv)
+
+### Issue 3: car data (26 July 2024)
+Note this data was created within the R Bytes issue.
+
+### Issue 4: olympics data (31 July 2024)
+-[athlete_events.csv]
+- This data was sourced from [kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)
+
