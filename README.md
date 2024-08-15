@@ -23,5 +23,5 @@ Note this data was created within the R Bytes issue.
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)
 
 ### Issue 5: Taylor Swift album data (15 Aug 2024)
--[taylor_swift_spotify.csv](taylor_swift_spotify.csv)
+- [taylor_swift_spotify.csv](taylor_swift_spotify.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset/data)
