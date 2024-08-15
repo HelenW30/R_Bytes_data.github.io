@@ -2,7 +2,8 @@
 
 
 Repository for external data used in the RCC's R Bytes blog.\
-This resource can be used to access data for testing code in the interactive webR portion of the R Bytes blog posts.
+This resource can be used to access data for testing code in the interactive webR portion of the R Bytes blog posts.\
+The date the data was downloaded is displayed next to the issue.
 
 ### Issue 1: coffee data (28 June 2024)
 
@@ -21,3 +22,6 @@ Note this data was created within the R Bytes issue.
 - [athlete_events.csv](athlete_events.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)
 
+### Issue 5: Taylor Swift album data (15 Aug 2024)
+-[taylor_swift_spotify.csv](taylor_swift_spotify.csv)
+- This data was sourced from [kaggle](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset/data)
