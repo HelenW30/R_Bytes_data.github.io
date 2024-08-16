@@ -27,7 +27,7 @@ Note this data was created within the R Bytes issue.
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset/data)
 
 ### Issue 6: Video Game Sales Data (16 Aug 2024)
-- [video_games_sales.csv](video_game_sales.csv)
+- [video_game_sales.csv](video_game_sales.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/data)
 
 
