@@ -25,3 +25,9 @@ Note this data was created within the R Bytes issue.
 ### Issue 5: Taylor Swift album data (15 Aug 2024)
 - [taylor_swift_spotify.csv](taylor_swift_spotify.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset/data)
+
+### Issue 6: Video Game Sales Data (16 Aug 2024)
+- [video_games_sales.csv](video_game_sales.csv)
+- This data was sourced from [kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/data)
+
+
