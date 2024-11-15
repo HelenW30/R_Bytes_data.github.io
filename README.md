@@ -26,8 +26,19 @@ Note this data was created within the R Bytes issue.
 - [taylor_swift_spotify.csv](taylor_swift_spotify.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset/data)
 
-### Issue 6: Video Game Sales Data (16 Aug 2024)
+### Issue 6: Coffee data - Strings()
+Note this issue used the same coffee data from issue 1.
+
+### Issue 7: Video Game Sales Data (16 Aug 2024)
 - [video_game_sales.csv](video_game_sales.csv)
 - This data was sourced from [kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/data)
 
+### Issue 8: Formula 1 
+Note the data was created within the R Bytes issue
 
+### Issue 9: Movie data (15 Nov 2024)
+- [imdb_movie_dataset.csv](imdb_movie_dataset.csv)
+- [simpsons_characters.csv](simpsons_characters.csv)
+- [simpsons_script_lines.csv](simpsons_script_lines.csv)
+
+### Issue 10:
