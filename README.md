@@ -41,4 +41,11 @@ Note the data was created within the R Bytes issue
 - [simpsons_characters.csv](simpsons_characters.csv)
 - [simpsons_script_lines.csv](simpsons_script_lines.csv)
 
-### Issue 10:
+### Issue 10: pivot (10 Dec 2024)
+-   These datasets have been adapted from the simplified_coffee.csv dataset in Issue 1
+-   [coffee_ex.csv](coffee_ex.csv)
+-   [coffee_long.csv](coffee_long.csv)
+-   [coffee_wide.csv](coffee_wide.csv)
+-   [coffee_wide_simple.csv](coffee_wide_simple.csv)
+-   [coffee_wide2.csv](coffee_wide2.csv)
+
