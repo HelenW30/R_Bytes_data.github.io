@@ -49,3 +49,17 @@ Note the data was created within the R Bytes issue
 -   [coffee_wide_simple.csv](coffee_wide_simple.csv)
 -   [coffee_wide2.csv](coffee_wide2.csv)
 
+### Issue 11: across (20 Dec 2024)
+- [athlete_events.csv](athlete_events.csv)
+- This data was sourced from [kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data)
+
+### Issue 12: Grammar of Graphics (Part 1) (24 Jan 2025)
+Note the data used was the iris dataset
+
+### Issue 13: Lubridate (18 Feb 2025)
+Note the data was created within the R Bytes issue
+
+### Issue 14:  Grammar of Graphics (Part 2) (14 Mar 2025)
+- [crops.csv](crops.csv)
+  
+
